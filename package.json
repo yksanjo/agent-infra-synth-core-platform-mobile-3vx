@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-synth-core-platform-mobile-3vx",
+  "version": "1.0.0",
+  "description": "Next-generation developer tool",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "synth-core-platform-mobile-3vx"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-synth-core-platform-mobile-3vx.git"
+  }
+}
